@@ -1,19 +1,12 @@
-# Template Repository
+# JToyLang
 
-A short description about this project here.
-
-## How To Use (GUI)
-
-Coming Soon.
+A toy language that im making to learn about advanced parsing techniques written in Java.
 
 ## How To Use (CLI)
 
-Coming Soon.
+1. Open a terminal
+2. Run `java -jar JToyLang.jar my_source.toy`
 
 ## Language(s) Used
 
-* \<language> \<version>
-
-# Screen Shots
-
-Coming Soon.
+* Java 17
