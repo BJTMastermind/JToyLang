@@ -1,1 +1,2 @@
-let a = 1 + 4;
+// Variable Test
+let a = 123;
